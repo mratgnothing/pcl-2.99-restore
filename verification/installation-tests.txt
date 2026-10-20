@@ -1,0 +1,14 @@
+PASS exact binary reconstruction
+PASS install, preserve unrelated settings, select local game root, restore exact original bytes
+PASS unknown executable rejected without any writes
+PASS running or locked executable rejected
+PASS locked configuration rejected before executable write
+PASS failure at exe-written rolls back executable and settings
+PASS failure at config-written rolls back executable and settings
+PASS restore preserves settings changed after installation
+PASS install and rollback work without any existing configuration
+PASS opt-out leaves configuration bytes unchanged
+PASS invalid game root rejected before any writes
+PASS corrupt patch rejected before backup or executable write
+PASS changed executable after installation is never overwritten by restore
+RESULT PASS: 13 tests; test save sentinels preserved.

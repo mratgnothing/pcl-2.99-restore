@@ -1,0 +1,9 @@
+{
+  "format": "PCLR2991+gzip",
+  "source_sha256": "6b6e1260cb5a1d6a303855f1c60cab3d0bc1aebba7e40a964180188b271e7386",
+  "target_sha256": "6be10780d1f1471bb5bddefdfbcb3966dbc90cc2f00d2dbce579fa75190932b9",
+  "target_length": 5976064,
+  "patch_sha256": "b086976f4ab5c9e2a1afaa8b85ec67754067e989602ba1b9412ec44293d4dafb",
+  "patch_length": 422336,
+  "operations": 4622
+}

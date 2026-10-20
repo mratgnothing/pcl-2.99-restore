@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.pdb
+*.reg
+*.user
+**/reference/
+**/test-run*/
+**/recovery-test*/

@@ -1,0 +1,4 @@
+PASS prepared transaction recovery after simulated interrupted write
+PASS simultaneous transaction guard rejects second operation
+PASS corrupted backup rejected without overwriting installed executable
+RESULT PASS: 3 recovery/concurrency tests

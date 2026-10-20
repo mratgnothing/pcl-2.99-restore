@@ -1,0 +1,9 @@
+Installed binary static verification: PASS
+Original SHA256: 6b6e1260cb5a1d6a303855f1c60cab3d0bc1aebba7e40a964180188b271e7386
+Installed SHA256: 6be10780d1f1471bb5bddefdfbcb3966dbc90cc2f00d2dbce579fa75190932b9
+Method inventory unchanged: 6339
+Changed method whitelist matched: 8
+All other method bodies unchanged: true
+Embedded resource blobs unchanged: 2
+Changed constants: RestrictMcDownload true -> false
+Assembly references unchanged: true

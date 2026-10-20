@@ -1,0 +1,14 @@
+﻿Source SHA256: 6b6e1260cb5a1d6a303855f1c60cab3d0bc1aebba7e40a964180188b271e7386
+Patched SHA256: 6be10780d1f1471bb5bddefdfbcb3966dbc90cc2f00d2dbce579fa75190932b9
+Modified method count: 8
+Embedded resources unchanged: 2
+Authentication method bodies unchanged: true
+Restriction metadata flag: false
+System.Void PCL.ModModpack::ModpackInstall()
+PCL.ModLoader/LoaderCombo`1<System.String> PCL.ModModpack::ModpackInstall(System.String,System.String,System.String)
+System.Void PCL.PageDownloadInstall::LoaderInit()
+System.Void PCL.PageDownloadModify::LoadInstanceFinished(PCL.ModLoader/LoaderTask`2<PCL.ModMinecraft/McInstance,System.Object>)
+System.Void PCL.PageDownloadResourceDetail::InitializeStackResourceVersions(System.Windows.Controls.StackPanel)
+System.Void PCL.PageLaunchLeft::RefreshButtonsUI()
+System.Void PCL.PageOtherAbout::PageOtherAbout_Loaded(System.Object,System.Windows.RoutedEventArgs)
+System.Void PCL.FormMain::ShowUpdateLog(System.Int32)

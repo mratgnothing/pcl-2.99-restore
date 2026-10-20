@@ -1,0 +1,2 @@
+Native WinForms render and file-check button: PASS
+Test host: Windows 11; no cross-machine compatibility claim.
